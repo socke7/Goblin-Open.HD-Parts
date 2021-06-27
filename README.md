@@ -7,7 +7,7 @@ Never heard about the STRIX Goblin? Look [here](https://www.readymaderc.com/prod
 ## Credits
 This project is based on the nice Goblin nose scan by user billyd60 at [rcgroups](https://www.rcgroups.com/forums/showpost.php?p=46243363&postcount=3574).<br>
 ## Motivation
-One of the best cameras available at the moment for Open.HD are the Veye IMX290/307/327 MIPI/CSI cameras. They have many useful features for FPV, like WDR and an excellent low light sensitivity - also they come with a high quality lens. A disadvantage is their price, so it was mandatory for me to handle my camera with care. That gave me the idea to make the camera retractable to better protect it in case of crashes or hard landings.
+Some of the best cameras available at the moment for Open.HD are the Veye IMX290/307/327 MIPI/CSI cameras. They have many useful features for FPV, like WDR and an excellent low light sensitivity - also they come with a high quality lens. A disadvantage is their price, so it was mandatory for me to handle my camera with care. That gave me the idea to make the camera retractable to better protect it in case of crashes or hard landings.
 ## How it works
 This is how it looks from outside:<br>
 ![](/media/outerview.gif)<br>
